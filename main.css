@@ -1,0 +1,15 @@
+body {
+    /* Ajusta la propiedad background para que coincida con la ruta correcta de tu imagen */
+    background-image: url('../img/imagen1.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen de fondo */
+    background-position: center; /* Ajusta la posición de la imagen de fondo */
+    height: 100vh; /* Ajusta la altura de la imagen de fondo */
+    margin: 0; /* Elimina el margen predeterminado del cuerpo */
+}
+
+
+.chatt-response{
+    background: antiquewhite;
+    border: solid 1px darkgrey;
+    padding: 20px;
+}
